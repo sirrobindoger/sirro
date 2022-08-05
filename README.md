@@ -1,8 +1,7 @@
-# ME
+# Hello
 
-Hello, this is my main GitHub account, most of my projects are privated. 
+I'm Sirro, or Solomon
 
-I may fix that soon.
+I specialize in Java, Lua, PHP, and React JS.
 
-
-Thanks for reading
+I have experience with frontend and backend website development. Most of my projects are privated, thanks for reading
